@@ -15,7 +15,9 @@ function logShout (string)
 {
   console.log.string.toUpperCase()
 }
-const spy
+const spy ()
+
+spy = 
 
 
 
